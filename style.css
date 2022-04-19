@@ -10,14 +10,15 @@
     align-items: center;
     justify-content: center;
     flex-grow: 1;
-    /* min-width: 320px; */
+    height: 100%;
 }
 .img {
     width: 320px;
+    border-radius: 10px;
 }
 iframe {
     display: flex;
     flex-grow: 1;
-    width: 350px;
+    width: 356px;
     height: 1000px
 }
