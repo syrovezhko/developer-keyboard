@@ -9,4 +9,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    flex-grow: 1;
+    /* min-width: 320px; */
+}
+.img {
+    width: 320px;
+}
+iframe {
+    display: flex;
+    flex-grow: 1;
+    width: 350px;
+    height: 1000px
 }
