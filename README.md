@@ -1,23 +1,36 @@
-# developer-keyboard
+В данном руководстве будет рассказано и показано как установить всё необходимое для перепрограмирования нашего устройства.
+Первым делом необходимо установить ArduinoIDE, в котором будет производиться работа с нашим продуктом.
+Найти данную программу можно найти на оффициальном сайте компании Arduino.
 
-This is the STACK OVERFLOW’S COPY / PASTE KEYBOARD allusion. However the devise can do a littel bit more than original. It has one more button, Win key, for clipboard acses in default. You may check uot the model [here](https://a360.co/3Iui5j1).
+https://www.arduino.cc/en/software
+![image](https://user-images.githubusercontent.com/102234463/166157753-82178e8b-a5e1-4c4c-9113-2db8609e7b74.png)
 
-## Hardvare
+Скачиваем файл и начианем установку программы.
 
-The project based on ATtiny85. 
-We used [Digispark](https://www.aliexpress.com/item/2043055746.html) board for MVP. Is's powerful enough for small projects.
-Also it's less than $2. Not bad for USB interface and voltage stabilaser on board.
+Далее необходимо установить драйвера для работы с платами Digistump.
+Вы можете найти их на оффициальной странице GitHub Digistump, либо же сразу скачать zip архив, скачанный с их страницы GitHub и добавленный сюда.
 
-We used [Gateron mx switches](https://www.aliexpress.com/item/32797603005.html). It's also cheep, about $1 for kit. 
+[Digistump.Drivers.zip](https://github.com/syrovezhko/developer-keyboard/files/8599401/Digistump.Drivers.zip)
 
-3D printing is depend of your region. For box and lid it's nesesory about 30 grams. In Russia it's cost less than $3. If you has frends with 3D printer, may be they print it for free. Sereosly, it's less then regular setting's consumption.
+https://github.com/digistump/DigistumpArduino/releases
+![image](https://user-images.githubusercontent.com/102234463/166157907-c6353381-e389-466a-91b8-7fc6beb389b9.png)
 
-Keycaps you can print as well. But remember, the small parts needs more attention during printing. May be it's better to buy it. The price is about $2 for kit.
+Также скачиваем файлы, разархивируем их и запускаем файл "Install Drivers.exe" и соглашаемся со всем что нам предлагают.
 
-I hope it's not a big deal to find out a few wires. At worst you may raid some broken USB cable or the patch cord. In hot swap's reasons you may solder stuf like [this](https://www.aliexpress.com/item/32908826691.html). 
+После всех проделанных нами действий нам необходимо добавить платы Digistump в ArduinoIDE.
+Открываем вкладку Файл и заходим в настройки приложения. Там указываем ссылку в строке для доп. ссылок менеджера плат.
+http://digistump.com/package_digistump_index.json
 
-In 2 weeks we will complited the original board and order it's fabrication. The manifacturing data also will be here.
+![image](https://user-images.githubusercontent.com/102234463/166158270-bdd50854-a0db-421d-8b55-4f489ececadc.png)
+![image](https://user-images.githubusercontent.com/102234463/166158395-d66af0d3-269b-442f-b805-67cbd09cbf74.png)
 
-## Software
+Далее необходимо установить платы Digistump в ПО Arduino.
+![image](https://user-images.githubusercontent.com/102234463/166158639-11ce110c-5e59-44f6-91e4-255c234bd00c.png)
 
-Next week we will published C++ code.
+В новом окне в поисковой строке необходимо найти "Digistump AVR boards" и добавить их в ArduinoIDE.
+![image](https://user-images.githubusercontent.com/102234463/166158708-80052682-5223-47d1-917f-e57de0e9aef3.png)
+
+Далее при перепрограмировании нашего устройства необходимо будет выбирать плату Digispark в новой вкладке с платами.
+![image](https://user-images.githubusercontent.com/102234463/166158847-3de4d9da-c890-4738-ac5e-dc8615075472.png)
+
+На этом данное руководство подоходит к концу, вы установили всё необходимое для работы с Клавиатурой Истинного Разработчика.
