@@ -159,7 +159,7 @@
 
 Ссылки для скачивания моделей:\
     Корпус - https://grabcad.com/library/housing-in-two-parts-1 \
-    Keycap - https://grabcad.com/library/keycap-16 \
+    Keycap - https://grabcad.com/library/keycap-16
 
 # Заключение
 
