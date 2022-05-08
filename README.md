@@ -157,9 +157,9 @@
 
 Для создания 3D моделей использовалась программа Autodesk Fusion 360. Для печати рекомендуется применять данные настройки: Толщина стенки - 1.2 мм. Заполнение 20%. Высота слоя 0.1-0.15 мм
 
-Ссылки для скачивания моделей:
-    Корпус - https://grabcad.com/library/housing-in-two-parts-1
-    Keycap - https://grabcad.com/library/keycap-16
+Ссылки для скачивания моделей:\
+    Корпус - https://grabcad.com/library/housing-in-two-parts-1\
+    Keycap - https://grabcad.com/library/keycap-16\
 
 # Заключение
 
