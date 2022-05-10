@@ -3,6 +3,18 @@
 В данном руководстве будет рассказано и показано как установить всё необходимое для создания копии начинки нашего устройства.
 Первым делом необходимо установить *ArduinoIDE*, в котором будет производиться работа с нашим продуктом.
 
+<details>
+<summary>Для дальнейших действий вам потребуется:</summary>
+
+1.   Arduino Uno
+2.   Digispark
+3.   6 проводов для подключения к Arduino Uno и 9 проводов для подключения к кнопкам
+4.   Персональный ПК
+5.   Паяльник
+6.   3D-принтер для печати корпуса
+7.   Пластик для печати
+
+</details>
 
 <details>
 <summary>
@@ -10,9 +22,15 @@
 # Установка ArduinoIDE
 
 </summary>
+
 Найти данную программу можно найти на [оффициальном сайте компании Arduino](https://www.arduino.cc/en/software).
 
+<details>
+<summary>Фотография сайта Arduino.</summary>
+
 ![image](https://user-images.githubusercontent.com/102234463/166157753-82178e8b-a5e1-4c4c-9113-2db8609e7b74.png)
+    
+</details>
 
 Скачиваем файл и начианем установку программы.
 </details>
@@ -142,6 +160,18 @@
 </details>
 
 # Прошивка Digispark
+
+<details>
+<summary>Примеры прошивки платы</summary>
+
+1.    [Скетч с комбинациями](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/Combination.ino)
+2.    [Зеркальный скетч с комбинациями](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/CombinationReverse.ino)
+3.    [Скетч с отдельными клавишами](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/Standart.ino)
+4.    [Зеркальный скетч с отдельными клавишами](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/StandartReverse.ino)
+5.    [Скетч с клавишами мультимедиа](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/Multimedia.ino)
+6.    [Зеркальный скетч с клавишами мультимедиа](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/MultimediaReverse.ino)
+
+</details>
 
 Для прошивки нашего устройства необходимо выбрать плату *Digispark* в новой вкладке с платами.
 <details>
