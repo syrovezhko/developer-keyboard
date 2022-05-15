@@ -165,12 +165,12 @@
 <details>
 <summary>Примеры прошивки платы</summary>
 
-1.    [Скетч с комбинациями](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/Combination.ino)
-2.    [Зеркальный скетч с комбинациями](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/CombinationReverse.ino)
-3.    [Скетч с отдельными клавишами](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/Standart.ino)
-4.    [Зеркальный скетч с отдельными клавишами](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/StandartReverse.ino)
-5.    [Скетч с клавишами мультимедиа](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/Multimedia.ino)
-6.    [Зеркальный скетч с клавишами мультимедиа](https://github.com/syrovezhko/developer-keyboard/blob/software-ru/Sketches/MultimediaReverse.ino)
+1.    [Скетч с комбинациями Ctrl+Z, Ctrl+C, Ctrl+V, Ctrl+A, Win+V(Ctrl+C + Ctrl+V)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Combination.ino)
+2.    [Зеркальный предыдущему скетч](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/CombinationReverse.ino)
+3.    [Скетч с отдельными клавишами Ctrl, Win, C, V](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Standart.ino)
+4.    [Зеркальный предыдущему скетч](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/StandartReverse.ino)
+5.    [Скетч с клавишами мультимедиа Play/Pause, VolUp, VolDown, NextTrack](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Multimedia.ino)
+6.    [Зеркальный предыдущему скетч](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/MultimediaReverse.ino)
 
 </details>
 
