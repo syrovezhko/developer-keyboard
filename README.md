@@ -163,14 +163,14 @@
 # Прошивка Digispark
 
 <details>
-<summary>Примеры прошивки платы</summary>
+<summary>Примеры прошивки платы (кликабельно)</summary>
 
-1.    [Скетч с комбинациями Ctrl+Z, Ctrl+C, Ctrl+V, Ctrl+A, Win+V(Ctrl+C + Ctrl+V)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Combination.ino)
-2.    [Зеркальный предыдущему скетч](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/CombinationReverse.ino)
-3.    [Скетч с отдельными клавишами Ctrl, Win, C, V](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Standart.ino)
-4.    [Зеркальный предыдущему скетч](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/StandartReverse.ino)
-5.    [Скетч с клавишами мультимедиа Play/Pause, VolUp, VolDown, NextTrack](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Multimedia.ino)
-6.    [Зеркальный предыдущему скетч](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/MultimediaReverse.ino)
+1.    [![image](https://user-images.githubusercontent.com/102234463/168491051-c85f0d66-928a-4151-8430-819ef9f217f2.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Combination.ino)
+2.    [![image](https://user-images.githubusercontent.com/102234463/168491137-c0188110-e587-4365-90e1-916bd94d5f51.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/CombinationReverse.ino)
+3.    [![image](https://user-images.githubusercontent.com/102234463/168491045-e737cb62-48b8-4606-9006-a727178bd8e8.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Standart.ino)
+4.    [![image](https://user-images.githubusercontent.com/102234463/168491012-835e29e6-0869-404a-9ad6-f5e0ecdb1620.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/StandartReverse.ino)
+5.    [![image](https://user-images.githubusercontent.com/102234463/168491170-b68b7f35-ef60-43e8-8e85-94674ff020c9.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Multimedia.ino)
+6.    [![image](https://user-images.githubusercontent.com/102234463/168491175-4fcc425d-b8ab-46ab-b1ae-acbf31558d46.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/MultimediaReverse.ino)
 
 </details>
 
