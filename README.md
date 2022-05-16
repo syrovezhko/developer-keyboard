@@ -1,6 +1,6 @@
 # developer-keyboard
 
-This is the STACK OVERFLOW’S COPY / PASTE KEYBOARD allusion. However the devise can do a littel bit more than original. It has one more button, Win key, for clipboard acses in default. You may check uot the model [here](https://a360.co/3Iui5j1).
+This is the STACK OVERFLOW’S COPY / PASTE KEYBOARD allusion. However the device can do a little bit more than original. It has one more button, Win key, for clipboard acses in default. You may check uot the model [here](https://a360.co/3Iui5j1).
 
 ## Hardvare
 
@@ -10,7 +10,7 @@ Also it's less than $2. Not bad for USB interface and voltage stabilaser on boar
 
 We used [Gateron mx switches](https://www.aliexpress.com/item/32797603005.html). It's also cheep, about $1 for kit. 
 
-3D printing is depend of your region. For box and lid it's nesesory about 30 grams. In Russia it's cost less than $3. If you has frends with 3D printer, may be they print it for free. Sereosly, it's less then regular setting's consumption.
+3D printing is depend of your region. For box and lid it's necessary about 30 grams. In Russia it's cost less than $3. If you have friends with 3D printer, may be they print it for free. Seriously, it's less then regular setting's consumption.
 
 Keycaps you can print as well. But remember, the small parts needs more attention during printing. May be it's better to buy it. The price is about $2 for kit.
 
@@ -20,4 +20,6 @@ In 2 weeks we will complited the original board and order it's fabrication. The 
 
 ## Software
 
-Next week we will published C++ code.
+English version (coming soon)
+
+[Russian version](https://github.com/syrovezhko/developer-keyboard/tree/software-ru)
