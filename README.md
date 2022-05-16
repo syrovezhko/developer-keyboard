@@ -1,3 +1,3 @@
 # Sketches
 
-This branch is dedicated to sketches for deveroper keyboard.
+This branch is dedicated to sketches for developer keyboard.
