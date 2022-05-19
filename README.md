@@ -165,12 +165,12 @@
 <details>
 <summary>Примеры прошивки платы (кликабельно)</summary>
 
-1.    [![image](https://user-images.githubusercontent.com/102234463/168491051-c85f0d66-928a-4151-8430-819ef9f217f2.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Combination.ino)
-2.    [![image](https://user-images.githubusercontent.com/102234463/168491137-c0188110-e587-4365-90e1-916bd94d5f51.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/CombinationReverse.ino)
-3.    [![image](https://user-images.githubusercontent.com/102234463/168491045-e737cb62-48b8-4606-9006-a727178bd8e8.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Standart.ino)
-4.    [![image](https://user-images.githubusercontent.com/102234463/168491012-835e29e6-0869-404a-9ad6-f5e0ecdb1620.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/StandartReverse.ino)
-5.    [![image](https://user-images.githubusercontent.com/102234463/168491170-b68b7f35-ef60-43e8-8e85-94674ff020c9.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Multimedia.ino)
-6.    [![image](https://user-images.githubusercontent.com/102234463/168491175-4fcc425d-b8ab-46ab-b1ae-acbf31558d46.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/MultimediaReverse.ino)
+1.    [![image](https://user-images.githubusercontent.com/102234463/169318634-bf3b608f-a9a1-4039-baf8-870514fd14ec.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Combination.ino)
+2.    [![image](https://user-images.githubusercontent.com/102234463/169318705-2eefb8ae-58b7-4541-b895-7f78f31a24dd.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/CombinationReverse.ino)
+3.    [![image](https://user-images.githubusercontent.com/102234463/169318804-22569a07-482e-4351-867b-a34d14c3a04e.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Standart.ino)
+4.    [![image](https://user-images.githubusercontent.com/102234463/169318928-5bef4d5f-ca00-44a2-8b9b-4a4e969523a4.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/StandartReverse.ino)
+5.    [![image](https://user-images.githubusercontent.com/102234463/169318449-abbe1312-19ad-4b9a-8768-e020da428ce2.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/Multimedia.ino)
+6.    [![image](https://user-images.githubusercontent.com/102234463/169318552-8901e301-c754-40b0-a134-3c5459af44cd.png)](https://github.com/syrovezhko/developer-keyboard/blob/Sketches/Sketches/MultimediaReverse.ino)
 
 </details>
 
