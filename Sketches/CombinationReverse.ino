@@ -1,3 +1,5 @@
+//Данный скетч имеет 5 комбинаций: Ctrl+A, Ctrl+V, Ctrl+C, Ctrl+Z, Win+V. При нажатии клавиш 2 и 3 активируется пятая комбинация.
+//This sketch contains 5 combitations: Ctrl+A, Ctrl+V, Ctrl+C, Ctrl+Z, Win+V. When 2nd and 3rd buttons are pressed, 5th combo is activated.
 #include <TrinketHidCombo.h>
 void setup() {
   // put your setup code here, to run once:
@@ -28,6 +30,7 @@ bool vKey = 0;
 bool vLastKey = 0;
 
 void loop() {
+  TrinketHidCombo.poll();
   //считываем текущее значение
   ctrlKey = !digitalRead(0);
   // при нажатии кнопки
@@ -102,8 +105,10 @@ void loop() {
 
   if ((modKeyCombo != 0) and (KeyCombo != 0)){
     TrinketHidCombo.pressKey(modKeyCombo, KeyCombo);
+    delay(250);
   }
   else{
     TrinketHidCombo.pressKey(modKey, Key);
   }
+  TrinketHidCombo.poll();
 }
