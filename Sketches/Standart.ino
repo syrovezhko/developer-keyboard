@@ -1,3 +1,5 @@
+//Данный скетч содержит 4 команды: Ctrl, Win, C, V.
+//This sketch contains 4 commands: Ctrl, Win, C, V.
 #include <TrinketHidCombo.h>
 void setup() {
   // put your setup code here, to run once:
@@ -25,6 +27,7 @@ bool vKey = 0;
 bool vLastKey = 0;
 
 void loop() {
+  TrinketHidCombo.poll();
   //считываем текущее значение
   ctrlKey = !digitalRead(0);
   // при нажатии кнопки
@@ -86,4 +89,5 @@ void loop() {
   }
 
   TrinketHidCombo.pressKey(modKey, Key);
+  TrinketHidCombo.poll();
 }
