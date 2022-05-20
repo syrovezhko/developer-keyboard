@@ -1,3 +1,5 @@
+//Данный скетч имеет 4 комбинации: Next_Track, Vol_Down, Vol_Up, Pause/Play.
+//This sketch contains 4 combitations:Next_Track, Vol_Down, Vol_Up, Pasue/Play.
 #include <TrinketHidCombo.h>
 void setup() {
   // put your setup code here, to run once:
@@ -22,6 +24,7 @@ bool vKey = 0;
 bool vLastKey = 0;
 
 void loop() {
+  TrinketHidCombo.poll();
   // put your main code here, to run repeatedly:
   //считываем текущее значение
   ctrlKey = !digitalRead(0);
@@ -84,4 +87,5 @@ void loop() {
     TrinketHidCombo.pressMultimediaKey(0);
     delay(50);
   }
+  TrinketHidCombo.poll();
 }
