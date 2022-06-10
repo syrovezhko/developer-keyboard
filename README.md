@@ -33,7 +33,7 @@ Keycaps (колпачки) так же можно распечатать. Но �
 9. и конечно же, ПК
 </details>
 
-## instructions
+## Инструкция
 
 [На русском](https://github.com/syrovezhko/developer-keyboard/tree/software-ru)
 
