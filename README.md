@@ -34,7 +34,8 @@ I hope it's not a big deal to find out a few wires. At worst you may raid some b
 
 ## instructions
 
-[Russian version](https://github.com/syrovezhko/developer-keyboard/tree/software-ru)
+[Russian version](https://github.com/syrovezhko/developer-keyboard/tree/software-ru) ()
 
 English version (coming soon)
 
+p.s: there is no English version yet, use Russian one with google translate
