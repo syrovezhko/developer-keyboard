@@ -1,4 +1,4 @@
-**English | [Русский](./READMEru.md)**
+**English | [Русский](./README.md)**
 
 # developer-keyboard
 
