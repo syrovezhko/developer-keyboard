@@ -1,4 +1,4 @@
-**English | [Русский](./README.md)**
+**English | [Русский](https://github.com/syrovezhko/developer-keyboard#developer-keyboard)**
 
 # developer-keyboard
 
